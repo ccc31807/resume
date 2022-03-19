@@ -1,0 +1,91 @@
+Charles C. Carter
+2315 Edgewood Road
+Columbus, Georgia 31906
+(706) 662-6351
+ccc31807@yahoo.com
+https://www.linkedin.com/in/ccc31807
+https://github.com/ccc31807
+
+ABOUT  
+
+    Database, software engineering, and data analytics professional. 
+    Language proficiencies:  Python |  C\# |   R |      Perl |    C. 
+    Database proficiencies: SQL Server |    SQLite |    PostgreSQL |    MySQL. 
+    Master of Science: Applied Computer Science |    Software Engineering |   
+    ABD in Software Engineering. 
+
+
+EDUCATION
+
+     Ph.D. Candidate (ABD), Software Engineering
+Auburn University, Auburn, Alabama
+
+     Master of Science Candidate (15 hours completed), Analytics
+Georgia Institute of Technology, Atlanta, Georgia
+
+ Master of Science, Software Engineering
+Auburn University, Auburn, Alabama
+
+ Master of Science, Applied Computer Science
+Columbus State University, Columbus, Georgia
+
+ Bachelor of Arts, History
+Mercer University, Macon, Georgia
+
+ no degree, Mathematics
+Columbus State University, Columbus, Georgia
+
+EXPERIENCE
+ 
+ Instructor (part time)  August 2017 to current 
+Columbus State University,  4225 University Avenue, Columbus, Georgia, 31907
+ -  Operating Systems (language: C)
+ -  Computer Science I (language: Python)
+ -  Software Engineering
+ -  Advanced Database
+
+ Instructor (full time)  May 2017 to July, 2021 
+Embry Riddle Aeronautical University,  Fort Benning, Georgia 31905 
+Marine Base Quantico, Virginia 22134
+ -  Instructor, Microsoft Software and Systems Academy
+ -  Cloud Application Development
+ -  T-SQL, SQL Server, SQL fundamentals
+ -  Programming in C\#, program development and design
+ -  ASP.NET, developing cloud applications
+ -  Azure, Microsoft SQL Database, Azure application development
+
+ Quantitative Analyst  Dec 2014 to October, 2015 
+Synovus Bank,  33 West 11th Street, Columbus, Georgia 31901
+ -  developed reproducible research automation with knitr and LaTeXe2
+ -  developed mapping applications with ggmap, choroplethr, and other \textsfR packages
+ -  assisted in the development of automated data cleaning 
+ -  assisted in SDLC activities (SRS, BRD, FRD, and design documents)
+ -  Primarily used \textsfR, SQL Server
+ 
+ Database Manager  Nov 2004 to Nov 2014 
+Troy University, 506 Manchester Expressway, Suite B20, Columbus, Georgia, 31904
+ -  automated enrollment, registration, and term processes
+ -  developed and maintained systems for reporting and analysis of academic data
+ -  developed and administered databases supporting critical university functions 
+ -  implemented applications and programs as needed to support university needs 
+ -  Primarily used Perl, SQL Server, PostgreSQL
+ 
+ System administrator, developer  Jan 2001 to Dec 2013 (part time) 
+CFGroup,  2315 Edgewood Road, Columbus, Georgia, 31904
+ -  administered HTTP (Apache) and database servers (MySQL)
+ -  administered operating systems (SunOS and Linux)
+ -  developed database driven web applications
+ 
+ Student, graduate assistant  May 2002 to May 2004 
+Columbus State University,  4225 University Avenue, Columbus, Georgia, 31907
+
+ -  supervised student labs and tutored students
+ -  administered Computer Science departmental servers (Linux, LinuxSE, FreeBSD)
+
+ Instructor  Jan 2000 to May 2002 
+Columbus Technical College,  928 Manchester Expressway, Columbus, Georgia, 31904
+ -  taught Web Development curriculum (HTML, CSS, JavaScript, etc.)
+ -  taught computer literacy, web development, and programming languages
+ -  administered web servers for web program (FreeBSD and Linux)
+ -  Primarily used Perl, JavaScript, C++
+
